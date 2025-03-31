@@ -3,7 +3,8 @@
 This project uses magnetic data inversion to analyze faults and tectonic structures in British Columbia. Studying faults and tectonic structures using magnetic data enhances geophysical exploration techniques. Fault zones often exhibit magnetic anomalies due to rock composition, deformation, and fluid activity variations. By applying geophysical inversion techniques, this study will map subsurface magnetic variations to identify and characterize major fault structures, providing insights into their geological significance and potential environmental impact.
 
 ### Motivation
-I had a question about energy production methods in countries with poor renewable resources, such as Indonesia and Japan. Indonesia, especially in the capital, has serious pollution issues since it relies on oil and gas to produce energy. In Japan, since the country does not have enough energy resources, it must depend on nuclear energy. The common factor in the two countries is that they both have high potential for geothermal resources. My motivation is to find the possibility of a shift in energy production methods to reduce the environmental impact. The important part of geothermal exploration is understanding the subsurface structure. Since at this point, I did not have enought resource(data) and knowledge in finding a potential spot in Indonesia or Japan, I used the data in Fraser River Fault zone as the place has been studied by many scientist in the past, i though it would be nice to get to understand what condition is needed for the exploration.
+I had a question about energy production methods in countries with limited renewable resources, such as Indonesia and Japan. In Indonesia, especially in the capital, pollution is a serious issue due to the country’s reliance on oil and gas for energy production. On the other hand, Japan lacks sufficient domestic energy resources and therefore depends heavily on nuclear energy. A common factor between the two countries is their high potential for geothermal energy. My motivation is to explore the possibility of shifting energy production methods to reduce environmental impact.
+Understanding the subsurface structure is an important aspect of geothermal exploration. Since I lack the necessary data and expertise to identify potential geothermal sites in Indonesia or Japan, I used data from the Fraser River Fault Zone instead. Scientists have studied this region extensively, and I thought it would be a good opportunity to understand the geological conditions required for successful geothermal exploration.
 
 
 ### Methods:
@@ -23,7 +24,15 @@ Airborne magnetic survey data from Natural Resources Canada (NRCAN). Study Regio
 
 ### Goals:
 • Acquire and process airborne magnetic data for a selected fault system.
+
 • Perform magnetic inversion to map subsurface fault structures.
+
+### Components
+• Environment.yml : shows the required packages to run the code
+
+• Data file: gsc_s_bc_alb_2b.csv stores magnetic and altitude data at each latitude and longitude.
+
+• project.ipynb: the main code for this project
 
 
 ### Installation Instructions
