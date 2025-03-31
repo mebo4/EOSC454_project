@@ -32,7 +32,7 @@ cd EOSC454_project
 2. Create and activate the conda environment
 conda env create -f environment.yml
 conda activate eosc454
-3.Launch Jupyter Notebook
+3. Launch Jupyter Notebook
 jupyter notebook  -> open project.ipynb
 
 
