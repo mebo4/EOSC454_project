@@ -19,7 +19,7 @@ Understanding the subsurface structure is an important aspect of geothermal expl
 SimPEG for inversion modeling.
 Python for data processing and visualization.
 Data Sets:
-Airborne magnetic survey data from Natural Resources Canada (NRCAN). Study Region: A Fault system in British Columbia, such as the Rocky Mountain Trench or the Fraser River Fault Zone.
+Airborne magnetic survey data from Natural Resources Canada (NRCAN). Study Region: A Fault system in British Columbia, such as the Fraser River Fault Zone.
 
 
 ### Goals:
