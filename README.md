@@ -36,14 +36,13 @@ Airborne magnetic survey data from Natural Resources Canada (NRCAN). Study Regio
 
 
 ### Installation Instructions
-1. Clone the Repository
+1. Clone the Repository:
 git clone https://github.com/794Uguisuheiannkiyou/EOSC454_project.git
 cd EOSC454_project
-2. Create and activate the conda environment
+2. Create and activate the conda environment:
 conda env create -f environment.yml
-
-conda activate eosc454
-3. Launch Jupyter Notebook
+->  conda activate eosc454
+3. Launch Jupyter Notebook:
 jupyter notebook  -> open project.ipynb
 
 
